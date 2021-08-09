@@ -1,10 +1,9 @@
 
-# <h2>MvvmMovieAPi</h2>
-<h3>This project Based on mvvm designPattern </h3>
+# <h2>Mvvm-MovieAPi</h2>
+<h3>This project Based on Mvvm DesignPattern </h3>
  This Repo using This: <a href="https://www.themoviedb.org/documentation/api">Imdb Api</a>
  <h2>Demo And ScreenShoots:</h2>  
  
-
  <table>
   <tr>
     <td><img src="https://github.com/ali-safdarii/MvvmMovieAPi/blob/master/movie_mvvm.gif" alt=""  width="200"></td>
