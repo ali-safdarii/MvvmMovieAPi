@@ -8,7 +8,8 @@
  <table>
   <tr>
     <td><img src="https://github.com/ali-safdarii/MvvmMovieAPi/blob/master/movie_mvvm.gif" alt=""  width="200"></td>
-    <td> </td>
+    <td><img src="https://github.com/ali-safdarii/MvvmMovieAPi/blob/master/20210809_164042.gif" alt=""  width="200" > </td>
+  
   </tr>
  </table>
  
