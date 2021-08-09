@@ -4,7 +4,13 @@
  This Repo using This: <a href="https://www.themoviedb.org/documentation/api">Imdb Api</a>
  <h2>Demo And ScreenShoots:</h2>  
  
-<img src="https://i.gifer.com/whQ.gif" width="200" alt=""  width="200">
+
+ <table>
+  <tr>
+    <td><img src="https://github.com/ali-safdarii/MvvmMovieAPi/blob/master/movie_mvvm.gif" alt=""  width="200"></td>
+    <td> </td>
+  </tr>
+ </table>
  
  <table>
   <tr>
