@@ -3,16 +3,6 @@
 <h3>This project Based on mvvm designPattern </h3>
  This Repo using This: <a href="https://www.themoviedb.org/documentation/api">Imdb Api</a>
  <h2>Demo And ScreenShoots:</h2>  
- <p align="center">
- 
-<a target="_blank" rel="noopener noreferrer" href="http://coffe-android.ir/image/movie_mvvm/movie_mvvm.gif"><img src="http://coffe-android.ir/image/movie_mvvm/movie_mvvm.gif" width="32%" style="max-width:100%;"></a>
- 
-</p>
- 
- 
- 
- 
- 
  
  <table>
   <tr>
