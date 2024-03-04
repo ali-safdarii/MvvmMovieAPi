@@ -12,12 +12,6 @@
   </tr>
  </table>
  
- <table>
-  <tr>
-    <td><img src="https://coffe-android.ir/public/images/screen_shoot_1.jpg" width="200"> </td>
-    <td><img src="https://coffe-android.ir/public/images/screen_shoot_2.jpg" width="200"> </td>
-  </tr>
- </table>
 
 <h2>Tech stack & Open-source libraries</h2>  
 
