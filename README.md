@@ -21,4 +21,8 @@
   <li>
         Android JetPack:Paignation
   </li>
+
+ <li>
+  ReactiveX for asynchronous
+ </li>
   </ul>
